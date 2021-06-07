@@ -1,5 +1,5 @@
 {
-  "name": "@alchemy_cms/admin",
+  "name": "@afdev82/alchemy_cms_admin",
   "version": "0.2.0",
   "description": "AlchemyCMS",
   "browser": "package/admin.js",
